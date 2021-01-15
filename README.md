@@ -1,6 +1,8 @@
 <!--### Hi there 👋-->
 
-# Vincent Cai Github
+# Vincent Cai Technology
+
+This is the official Github page of Vincent Cai, containing all project repositories from Vincent Cai Technology
 
 <!--
 **vincentcai48/vincentcai48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
