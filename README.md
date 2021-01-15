@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-# Vincent Cai Technology
+# Vincent Cai
 
 This is the official Github page of Vincent Cai, containing all project repositories from Vincent Cai Technology
 
