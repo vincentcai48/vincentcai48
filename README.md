@@ -7,7 +7,7 @@ This is the official Github page of Vincent Cai, containing all project reposito
 ### Contact  
 📫 Email: contact@vincentcai.tech  
 
-### Currently Developing  
+### Currently Developing 🔭 
 
 **`Translationeer`**  
 Web-based software as a service for language translation. Features interactive canvas and studio.
