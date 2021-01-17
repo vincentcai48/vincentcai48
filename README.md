@@ -10,7 +10,7 @@ This is the official Github page of Vincent Cai, containing all project reposito
 ### Currently Developing  
 
 **`Translationeer`**  
-Web-based software as a service for language translation
+Web-based software as a service for language translation. Features interactive canvas and studio.
 
 **`The New Maps Project`**  
 A comprehensive set of online tools for the purpose of bringing public attention to and working towards a solution for gerrymandering in the USA.
