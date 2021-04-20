@@ -5,7 +5,7 @@
 This is the official Github page of Vincent Cai, containing all project repositories from Vincent Cai Technology  
 
 ### Contact  
-📫 Email: contact@vincentcai.tech  
+📫 Email: vincent.cai48@gmail.com
 
 ### Currently Developing 🔭 
 
