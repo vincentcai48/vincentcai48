@@ -15,14 +15,6 @@ Web-based software as a service for language translation. Features interactive c
 **`The New Maps Project`**  
 A comprehensive set of online tools for the purpose of bringing public attention to and working towards a solution for gerrymandering in the USA.
 
-**`Aspyere`**
-Online live quiz platform for large organizations, not in production yet.
-
-### Currently Learning 🌱
-
-- AWS Cloud
-- SQL Databases
-
 <!--
 **vincentcai48/vincentcai48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
