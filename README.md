@@ -2,7 +2,7 @@
 
 # Vincent Cai
 
-This is the official Github page of Vincent Cai, containing all project repositories from Vincent Cai Technology  
+This is the official Github page of Vincent Cai, containing all project repositories made by Vincent Cai
 
 ### Contact  
 📫 Email: vincent.cai48@gmail.com
