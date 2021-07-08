@@ -15,7 +15,7 @@ LinkedIn: [link](https://www.linkedin.com/in/vincent-cai-2899401b3/)
 ## Currently Developing 🔭 
 
 ### Translationeer 
-Platform for language translation; open source and hosted as a web application. Currently for only Latin translation, but looking to expand in the future to other languages.
+Platform for language translation; open source and hosted as a web application. Currently for only Latin translation, but looking to expand in the future to other languages. Features definition lookups and organizational tools that make it easy to translate more efficiently.
 
 ### The New Maps Project 
 Online tools to visualize, analyze, and draw congressional districts to spot and prevent gerrymandering in the United States. Looking to put some of these tools to use in the upcoming redistricting cycle; please contact me if you see an opportunity for this project to help with redistricting.
