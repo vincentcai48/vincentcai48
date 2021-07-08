@@ -2,18 +2,23 @@
 
 # Vincent Cai
 
-This is the official Github page of Vincent Cai, containing all project repositories made by Vincent Cai
+Hi there 👋, I'm Vincent Cai. Welcome to my personal GitHub account! You'll see a lot of my projects I'm developing on here, as well as some test repositories for some new technologies that I'm learning. Stay tuned for updates!
 
-### Contact  
-📫 Email: vincent.cai48@gmail.com
+## Website & Blog
+Website: [vincentcai.com](https://vincentcai.com/)  
+Blog: [blog.vincentcai.com](https://blog.vincentcai.com/)
 
-### Currently Developing 🔭 
+## Contact 📫
+Email: vincent.cai48@gmail.com  
+LinkedIn: [link](https://www.linkedin.com/in/vincent-cai-2899401b3/)
 
-**`Translationeer`**  
-Web-based software as a service for language translation. Features interactive canvas and studio.
+## Currently Developing 🔭 
 
-**`The New Maps Project`**  
-A comprehensive set of online tools for the purpose of bringing public attention to and working towards a solution for gerrymandering in the USA.
+### Translationeer 
+Platform for language translation; open source and hosted as a web application. Currently for only Latin translation, but looking to expand in the future to other languages.
+
+### The New Maps Project 
+Online tools to visualize, analyze, and draw congressional districts to spot and prevent gerrymandering in the United States. 
 
 <!--
 **vincentcai48/vincentcai48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
